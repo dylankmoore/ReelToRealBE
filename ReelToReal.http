@@ -1,0 +1,6 @@
+@ReelToReal_HostAddress = http://localhost:5157
+
+GET {{ReelToReal_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
